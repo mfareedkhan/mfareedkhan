@@ -1,4 +1,4 @@
-![logo](https://github.com/mfareedkhan/mfareedkhan/blob/main/Github%20Banner%20(1).png)
+![logo](https://github.com/mfareedkhan/mfareedkhan/blob/main/Github%20Banner%202.jpeg)
 <h1 align="center">Hi 👋, I'm M Fareed Khan</h1>
 <h3 align="center">Data Science Enthusiast | AI | ML | DL | Python + Mathematician ❤️</h3>
 
