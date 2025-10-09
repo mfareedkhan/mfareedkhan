@@ -1,24 +1,23 @@
 ![logo](https://github.com/mfareedkhan/mfareedkhan/blob/main/Github%20Banner%202.jpeg)
 <h1 align="center">Hi 👋, I'm M Fareed Khan</h1>
-<h3 align="center">Data Science Enthusiast | AI | ML | DL | Python + Mathematician ❤️</h3>
+<h3 align="center"> MS Data Science | AI-ML & Deep Learning Researcher | Generative AI | Computer Vision & NLP | VLM & LLM </h3>
 
 <img align="right" alt="datascience" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 <p align="left"> <a href="https://twitter.com/mfareedkhan012" target="blank"><img src="https://img.shields.io/twitter/follow/mfareedkhan012?logo=twitter&style=for-the-badge" alt="mfareedkhan012" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning & AI**
+Hi, I’m Muhammad Fareed. I’m currently pursuing an MS in Data Science (4.0/4.0 CGPA) at Riphah International University, and I combine research in medical AI with 7+ years of teaching experience in mathematics.
 
-- 👨‍💻 All of my projects are available at [https://mfareedkhan.com/projects](https://mfareedkhan.com/projects)
+My research focuses on vision–language models (VLMs) for chest X-ray report generation. For my thesis, I am currently working on a "RAG-based, parameter-efficient fine-tuning VLM" to ground generated chest x-ray reports. The goal is a practical, trustworthy report drafting that reduces workload for radiologists while remaining deployable on modest hardware.
 
-- 📝 I regularly write articles on [https://mfareedkhan.com/writes/](https://mfareedkhan.com/writes/)
+I am the "first author" of two peer-reviewed research articles in prestigious Frontiers' journals and a recipient of the "Vice Chancellor’s Honors Award" for academic excellence. I am comfortable across the full research and engineering stack, from data preprocessing and model development (PyTorch/Hugging Face) to parameter-efficient fine-tuning and clinical validation, and I enjoy turning research ideas into practical, usable tools.
 
-- 💬 Ask me about **Data Science, Python, ML / DL**
+I’m open to research collaborations, industry projects in medical AI, and PhD opportunities in Data Science/AI/ML. You can find my code and project demos on 
 
-- 📫 How to reach me **contact@mfareedkhan.com**
+- GitHub: github.com/mfareedkhan.
+- Email: mfareedkhan012@gmail.com
 
-- 📄 Know about my experiences [https://mfareedkhan.com/resume](https://mfareedkhan.com/resume)
-
-- ⚡ Fun fact **Training a single AI model can emit as much carbon as five cars in their lifetimes! 🌱🤖 It's like having a carbon footprint on the digital frontier.**
+Feel free to reach out. I’d be glad to connect.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +25,6 @@
 <a href="https://linkedin.com/in/mfareedkhan012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfareedkhan012" height="30" width="40" /></a>
 <a href="https://kaggle.com/mfareedkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mfareedkhan" height="30" width="40" /></a>
 <a href="https://fb.com/mfareedkhan012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mfareedkhan012" height="30" width="40" /></a>
-<a href="https://instagram.com/mfareedkhan012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfareedkhan012" height="30" width="40" /></a>
 <a href="https://medium.com/@mfareedkhan012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mfareedkhan012" height="30" width="40" /></a>
 </p>
 
