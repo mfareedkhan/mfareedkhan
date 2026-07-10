@@ -1,4 +1,4 @@
-![Muhammad Fareed](assets/banner.png)
+![Muhammad Fareed](/banner.png)
 
 # Hi, I'm Muhammad Fareed 👋
 
