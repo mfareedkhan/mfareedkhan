@@ -1,6 +1,4 @@
-<!-- Banner image: swap the current generic stock "AI/ML" graphic. Recommend reusing / adapting
-     Fareed_LinkedIn_Banner.png (same accurate positioning, no fabricated claims). Say the word
-     and I'll generate a README-optimized version (GitHub renders full-width, ~1200–1584px works well). -->
+![Muhammad Fareed](assets/banner.png)
 
 # Hi, I'm Muhammad Fareed 👋
 
